@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
+<<<<<<< HEAD
 #include<math.h>
 
 void main(){
@@ -26,4 +27,8 @@ void main(){
     }
 
     getch();
+=======
+void main(){
+    int 
+>>>>>>> 83f627820df022c801dbf0bc7455e936475baecd
 }
